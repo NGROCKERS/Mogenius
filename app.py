@@ -7,4 +7,4 @@ def hello_world():
    return 'ADARSHMEDIAS'
 
 #Ex https://Greymattersbot:ghp_147bkkabcdefgh@github.com/Greymattersbot/Mogenius
-os.system("git clone https://NGROCKER:@https://github.com/ngrocker/LazyPrincessV2 okk && cd okk && pip3 install -U -r requirements.txt && nohup ython -m Adarsh &")
+os.system("git clone https://NGROCKERS:@https://github.com/NGROCKERS/Filestreambot-pro okk && cd okk && pip3 install -U -r requirements.txt && nohup python -m Adarsh &")
